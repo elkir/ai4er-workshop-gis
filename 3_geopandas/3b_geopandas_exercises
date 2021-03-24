@@ -1,0 +1,108 @@
+{
+ "metadata": {
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.8.8-final"
+  },
+  "orig_nbformat": 2,
+  "kernelspec": {
+   "name": "python38864bitai4erworkshopgisconda3382785939a84ea288fcc951f054071c",
+   "display_name": "Python 3.8.8 64-bit ('ai4er-workshop-gis': conda)",
+   "language": "python"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2,
+ "cells": [
+  {
+   "source": [
+    "# Part 3 - Using geopandas - exercises"
+   ],
+   "cell_type": "markdown",
+   "metadata": {}
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "# Imports"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "source": [
+    "### Load the file with tree polygons with the correct CRS, that you used in last exercise."
+   ],
+   "cell_type": "markdown",
+   "metadata": {}
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "source": [
+    "### Use the shape descriptor functions from first exercise to construct new fields to the GeoDataFrame"
+   ],
+   "cell_type": "markdown",
+   "metadata": {}
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "source": [
+    "### Plot histograms of these quantities"
+   ],
+   "cell_type": "markdown",
+   "metadata": {}
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "source": [
+    "### Choose a descriptor that shows at least some faint separation in the histogram\n",
+    "### Use this to choose a threshold value of that descriptor\n",
+    "### Filter the trees based on that threshold\n",
+    "### Plot the selected trees with that filter (e.g. change their color)\n"
+   ],
+   "cell_type": "markdown",
+   "metadata": {}
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ]
+}
