@@ -1,0 +1,31 @@
+name: ai4er-workshop-gis
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - jupyterlab-git
+
+ # geospatial packages
+  - matplotlib >=3.3
+  - geopandas >=0.9
+  - shapely >=1.7
+  - fiona 
+  - rasterio >=1.2
+
+  - scikit-learn
+  - scipy
+
+  - geojson
+  - pysal
+  - mapclassify
+  - pyrosm
+  - geopy
+  - geojson
+  - contextily
+  - folium
+  - mplleaflet
+  - bokeh
+  - pip
